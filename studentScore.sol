@@ -10,7 +10,7 @@ contract GradManger{
 
     }
 
-    function getGrade(string memory _studentName) public view returns (uint256){
+    function getGrade(stringbbbbbbbbbbbbbb memory _studentName) public view returns (uint256){
         return studentGrades[_studentName];
     }
 
